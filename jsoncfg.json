@@ -7,11 +7,17 @@
 		"East",
 		"West"
 	],
+	"Address": {
+		"Number": 10,
+		"Street": "Downing Street",
+		"City": "London"
+	},
 	"Countries": [
 		{ "Name": "Spain", "Language": "Spanish", "Greeting": "Hola" },
 		{ "Name": "Italy", "Language": "Italian", "Greeting": "Ciao" },
 		{ "Name": "Portugal", "Language": "Portuguese", "Greeting": "Bom dia" }
-	]
+	],
+	"Toggle": false
 }	
 
 
