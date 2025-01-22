@@ -25,7 +25,6 @@ type Cfg struct {
 		Greeting2	string		`json:"Greeting"`
 	}					`json:"Countries"`
 	Toggle2		bool			`json:"Toggle"`
-
 }
 
 var AppConfig Cfg

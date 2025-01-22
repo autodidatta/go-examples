@@ -25,7 +25,6 @@ type Cfg struct {
 		Greeting	string
 	}
 	Toggle		bool
-
 }
 
 var AppConfig Cfg
