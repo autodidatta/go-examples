@@ -1,0 +1,18 @@
+{
+	"Id": 1,
+	"Name": "Name One",
+	"Directions": [
+		"North",
+		"South",
+		"East",
+		"West"
+	],
+	"Countries": [
+		{ "Name": "Spain", "Language": "Spanish", "Greeting": "Hola" },
+		{ "Name": "Italy", "Language": "Italian", "Greeting": "Ciao" },
+		{ "Name": "Portugal", "Language": "Portuguese", "Greeting": "Bom dia" }
+	]
+}	
+
+
+
